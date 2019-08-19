@@ -1,0 +1,16 @@
+*.sln
+
+*.csproj
+*.meta
+*.png
+
+Assets/BuildReport
+Assets/CameraPath3
+
+.vs
+CVS
+Data
+Library
+obj
+ProjectSettings
+UnityPackageManager
