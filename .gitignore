@@ -4,7 +4,9 @@
 *.meta
 *.png
 
+.cvsignore
 Assets/BuildReport
+Assets/CameraPath3
 Assets/CodeStage
 Assets/Demigiant
 Assets/DragonBones
